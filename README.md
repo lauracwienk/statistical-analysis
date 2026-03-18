@@ -1,7 +1,7 @@
 This repository is dedicated to treat flotation data from the following 
 dataset: https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process
 
-*How to activate python virtual environment and used libraries*
+**How to activate python virtual environment and used libraries**
 | Step | Command | Description |
 |-------|---------|-----------|
 | 1 | `python -m venv venv` | Create virtual environment |
